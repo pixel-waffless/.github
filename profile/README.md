@@ -1,6 +1,6 @@
-# Waifus Informáticas
+# Pixel Waffles
 
-¡Bienvenido a **Waifus Informáticas**!  
+¡Bienvenido a **Pixel Waffles**!  
 Somos una comunidad vibrante dedicada a compartir conocimiento, fomentar el aprendizaje y construir proyectos relacionados con programación y tecnología en general.
 
 ## ¿Qué encontrarás aquí?
@@ -44,4 +44,4 @@ Si deseas comunicarte con la comunidad, proponer ideas o colaborar en un proyect
 
 Si te interesa la programación, la tecnología y formar parte de un entorno amigable para desarrollar ideas, este es tu lugar.
 
-¡Gracias por visitar **Waifus Informáticas**!
+¡Gracias por visitar **Pixel Waffles**!
